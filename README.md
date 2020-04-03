@@ -5,7 +5,7 @@ The website used here is one of my projects that I built:-
 https://nameless-meadow-64755.herokuapp.com/
 
 
-The information extract are :
+The information extracted are :
 
 --> Experience of farmers:
 1. Title of experience 
