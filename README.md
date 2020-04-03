@@ -4,4 +4,12 @@ I used python and requests and beautiful Soup to scrap the information from the 
 The website used here is one of my projects that I built:-
 https://nameless-meadow-64755.herokuapp.com/
 
+
+The information extract are :
+
+--> Experience of farmers:
+1. Title of experience 
+2. Image posted 
+3. Experience shared by farmers.
+
 Web scrapping is done for learning purpose and have no intention of causing any harm.
