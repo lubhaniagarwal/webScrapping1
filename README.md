@@ -12,4 +12,6 @@ The information extract are :
 2. Image posted 
 3. Experience shared by farmers.
 
+The result is stored in CSV format that can be further used to apply on various machine learning algorithms and derive useful informations.
+
 Web scrapping is done for learning purpose and have no intention of causing any harm.
